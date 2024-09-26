@@ -82,3 +82,8 @@ Este projeto implementa um sistema bancário utilizando o paradigma de **Program
    ```bash
    git clone https://github.com/seu-usuario/sistema-bancario-poo.git
    cd sistema-bancario-poo
+
+
+2. Execute o script principal:
+   ```bash
+   python3 main.py
